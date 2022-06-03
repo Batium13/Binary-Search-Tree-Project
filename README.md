@@ -109,4 +109,8 @@ Binary search tree aşamaları gösterilmiştir.
 |             |  |  |     | /|  |\ |  |  |  |  |  |
 |**2 ekledik**|  |  |**2**|  |  |  |4 |  |  |  |  |
 
+***
+## Patika Dev
+*** 
+[Patika dev hesabım](https://app.patika.dev/batium)
 
